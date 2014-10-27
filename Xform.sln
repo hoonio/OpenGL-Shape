@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Xform", "Xform.vcproj", "{DD868423-3EE9-44FF-B0B1-7118785900E3}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{DD868423-3EE9-44FF-B0B1-7118785900E3}.Debug.ActiveCfg = Debug|Win32
+		{DD868423-3EE9-44FF-B0B1-7118785900E3}.Debug.Build.0 = Debug|Win32
+		{DD868423-3EE9-44FF-B0B1-7118785900E3}.Release.ActiveCfg = Release|Win32
+		{DD868423-3EE9-44FF-B0B1-7118785900E3}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
